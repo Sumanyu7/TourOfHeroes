@@ -1,5 +1,9 @@
 # TourOfHeroes
 
+This project follows the Angular Tutorial - [Tour of Heroes](https://angular.io/tutorial#tour-of-heroes-app-and-tutorial).
+
+This project is used to learn the basics of Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
